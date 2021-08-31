@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: platformservice
-          image: celoficial/platformservice:latest
+          image: celoficial/platformservice:latest # How do I Use image locally? Or from another container register?
